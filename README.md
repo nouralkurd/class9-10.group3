@@ -2,8 +2,16 @@
 #  *Hello*
 ![](Images/nour.jpg.jpg)
 
-# Members of this subgroup are: 
-[]nour
+*Members of this subgroup are*
+* Mamé
+* Oguz
+* Aleksandra
+* Ali
+* Nadia
+
+*Our coaches*
+1. Ibrahimµ
+1. Mert
 
 |Name|Date of Birth|place of birth|Living|
 |:----|:----|----|----|
